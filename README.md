@@ -6,7 +6,7 @@ dispositivo y reparte premios por nivel.
 
 ## 🔴 EN VIVO
 
-**<https://franklinleon.github.io/juego-grito-pwa/>**
+**<https://sebaschalco33.github.io/Juego-de-gritos---Tablet-s/>**
 
 Abre esa URL en la tablet → menú del navegador → **"Agregar a pantalla de inicio"**.
 
