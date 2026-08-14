@@ -9,8 +9,6 @@ dispositivo y reparte premios por nivel.
 **<https://sebaschalco33.github.io/Juego-de-gritos---Tablet-s/>**
 
 
-URL PARA EL JUEGO 
-
 Abre esa URL en la tablet → menú del navegador → **"Agregar a pantalla de inicio"**.
 
 > Para actualizar la app publicada: edita, `git commit` y `git push`. GitHub Pages
